@@ -11,4 +11,6 @@ https://www.studysmarter.co.uk/explanations/computer-science/databases/sql-order
 
 https://www.w3schools.com/sql/sql_in.asp
 
+https://www.w3schools.com/sql/func_mysql_extract.asp
+
 
