@@ -10,7 +10,7 @@ SELECT employees.emp_no,
 
 
     -- List the first name, last name, and hire date for the employees who were hired in 1986.
-Select 
+SELECT
 first_name,
 last_name,
 hire_date
